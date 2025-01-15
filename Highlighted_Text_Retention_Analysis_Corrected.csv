@@ -1,0 +1,110 @@
+Text,Color,Video,Sentiment,Sentiment Score,Emotion,Emotion Score,Video position (%),Audience Retention (%)
+"common sense wasn’t already obvious, a man from Topeka, Kansas certainly made it clear in June 2019. When he stumbled upon what appeared to be an empty metal drum",YELLOW (7),Video A,POSITIVE,0.7667537927627563,disgust,0.3299110233783722,5,87.27
+"the inquisitive fellow thought best to cut the thing open with a blowtorch. What he was hoping to use the divided drum for is anyone’s guess, as it exploded violently before the fellow got the chance to finish his task",BRIGHT_GREEN (4),Video A,NEGATIVE,0.9992721676826476,anger,0.8674838542938232,7,80.08
+"? It would seem so, because he clearly placed too much confidence in the strength of his own skull when he launched a firework from a top his head. He’d been drinking and joking around with the idea, when the firework accidentally caught alight.",TURQUOISE (3),Video A,NEGATIVE,0.9985458850860596,neutral,0.2578173875808716,14,82.21
+"as he decided to take a late-night bike ride along the 405 Freeway in Long Beach, California.",YELLOW (7),Video A,NEGATIVE,0.9409635066986084,fear,0.4030964970588684,20,73.64
+"He trundled along in the auxiliary lane – which is designed to allow drivers to speed up or slow down – on the 60mph highway in the dark, unaware of the danger . Unsurprisingly, a driver using the auxiliary lane",BRIGHT_GREEN (4),Video A,NEGATIVE,0.9948008060455322,fear,0.7262738943099976,21,73.37
+"not expecting to see a cyclist, ploughed into the bicycle at full-speed , unable to stop. T he cyclist was killed , and the driver was traumatised by an accident that should never have happened .",TURQUOISE (3),Video A,NEGATIVE,0.9975371360778807,fear,0.8633847236633301,23,72.38
+"So, unless you ’re a superhuman who can ride their bicycle at 60 mph and over , leave the highways to the motorists .",PINK (5),Video A,NEGATIVE,0.9910904169082642,neutral,0.8363981246948242,24,71.73
+"He put that adage to the test at a drinking contest in 2015 , when h e slammed 25 shots of vodka in less than 60 seconds .",YELLOW (7),Video A,NEGATIVE,0.9958401918411256,neutral,0.8871665000915527,27,70.73
+"Shortly after sinking the final one , t he student said he felt ill and collapsed",BRIGHT_GREEN (4),Video A,NEGATIVE,0.999740183353424,sadness,0.9027668237686156,28,70.45
+"As a huge soccer fan, losing sleep during the World Cup due to the 11-hour time difference between host nation Brazil and his own was no biggie",TURQUOISE (3),Video A,NEGATIVE,0.9933112859725952,sadness,0.6260322332382202,33,68.76
+"But the stress, exhaustion and excitement of watching soccer’s greatest players go head-to-head , non-stop for the 48-hour stretch he stayed awake for took its toll.",PINK (5),Video A,NEGATIVE,0.9690210819244384,sadness,0.7476974725723267,34,68.57
+"His extreme exhaustion is thought to have triggered a brain haemorrhage – something research suggests sleep deprivation significantly increase s the chances of . H e died shortly after the last match of the day,",YELLOW (7),Video A,NEGATIVE,0.9973610043525696,sadness,0.8838712573051453,36,67.48
+". Whether he was a fan of the losing side and took the loss particularly – and fatally – hard, is unclear",BRIGHT_GREEN (4),Video A,NEGATIVE,0.9994046688079834,anger,0.3933041989803314,37,67.28
+"that is, until a truck smashed into them from behind.",PINK (5),Video A,NEGATIVE,0.9957221746444702,fear,0.4810421466827392,42,66.42
+"Miraculously, the only person to die in the incident was the man behind the wheel of the lawnmower, who had seemingly instigated the ridiculous activity",YELLOW (7),Video A,POSITIVE,0.7568408846855164,surprise,0.6981049180030823,44,64.6
+"Unfortunately, that was the method of choice for a group of Indian wedding attendees with a taste for celebratory gunfire in 2 019.",BRIGHT_GREEN (4),Video A,NEGATIVE,0.9992890357971193,sadness,0.7748908400535583,47,66.4
+The first round of gunshots - fired dangerously closely over the dancers’ heads - almost deafened several of them,TURQUOISE (3),Video A,NEGATIVE,0.9933328032493592,fear,0.8744635581970215,48,64.12
+". But the next round, fired without any regard to things like , oh I don’t know… aiming … resulted in one shotgun-wielding guest receiving a direct hit to the face",PINK (5),Video A,NEGATIVE,0.9972978234291076,disgust,0.5297902226448059,49,63.91
+"Needless to say, after he’d finally decided to look around him , the festivities were over",BRIGHT_GREEN (4),Video A,NEGATIVE,0.99772447347641,joy,0.4913278222084045,51,63.21
+"But on Christmas Day, 2015, a group of amateur German thieves decided it was time to make headway in the crime game . They bundled some explosives into a condom dispenser and l it her up",TURQUOISE (3),Video A,NEGATIVE,0.9811556339263916,neutral,0.7073665261268616,55,62.19
+"But to their surprise, the explosion blasted chunks of the metal enclosure outwards with enough speed to become deadly projectiles. One of the rubber-robbers was struck in the hea d and died shortly afterwards.",PINK (5),Video A,NEGATIVE,0.9129030704498292,surprise,0.9275267720222472,57,61.61
+"it was 140. As an enthusiast and part-time breeder, you’d think the 36-year-old would’ve had a solid understanding of the risks of living with reptile s that have the ability to kill you",RED (6),Video A,POSITIVE,0.9876511096954346,neutral,0.848090410232544,62,60.49
+"But whether she let her guard down , or just felt comfortable letting the creatures roam free, one fateful evening saw one of her snakes turn on its owner.",YELLOW (7),Video A,NEGATIVE,0.9501607418060304,neutral,0.5562189221382141,63,60.65
+"The next day, the town sheriff was horrified to discover the reptile enthusiast held in a deadly embrace by one of her beloved pets; an 8-foot-long p ython",BRIGHT_GREEN (4),Video A,NEGATIVE,0.9843989610671996,fear,0.7977567315101624,65,59.92
+"the biker lost control , and his Harley flipped dozens of times , smashing against the tarmac.",TURQUOISE (3),Video A,NEGATIVE,0.9775838851928712,anger,0.742158055305481,71,57.53
+"In an attempt to satisfy his adrenaline cravings, he climbed onto a train ’s roof and , as if it was a wild, metal stallion, attempted to ride it.",PINK (5),Video A,NEGATIVE,0.9656116366386414,fear,0.6810145378112793,77,57.12
+"He’d been – quite literally – decapitated the moment he hit the roof of bridge , and his body had continued along its journey before eventually falling off the train .",YELLOW (7),Video A,NEGATIVE,0.9780805706977844,disgust,0.7139872312545776,83,55.48
+"So, she got out, ran over… and was immediately killed by one of nature’s most efficient murder - machines.",BRIGHT_GREEN (4),Video A,NEGATIVE,0.9368860721588136,surprise,0.3464195728302002,93,54.6
+"But to make matters worse, the combination of the escort ’ s panic, and the man’s no-longer- circulated blood-flow, the pair became… well… stuck. Unable to break free from the horrifically morbid embrace , the woman had no choice but to seek medical assistance",PINK (5),Video A,NEGATIVE,0.9862990975379944,fear,0.9619921445846558,99,30.26
+unlucky thief crushed to death.,BRIGHT_GREEN (4),Video C,NEGATIVE,0.9977411031723022,sadness,0.6193249821662903,10,78.72
+"tried to extort money and crystal meth from a local dealer. To scare the dealer, Khi m pulled the pin from a grenade.",YELLOW (7),Video C,NEGATIVE,0.9839586019515992,fear,0.981837809085846,14,76.8
+Kim then put the live grenade back in his pocket.,BRIGHT_GREEN (4),Video C,NEGATIVE,0.9922457337379456,disgust,0.4169337451457977,15,76.3
+"the grenade exploded, blasting the “ Big Giant ” into “T iny L ittle ” pieces.",TURQUOISE (3),Video C,NEGATIVE,0.987407684326172,anger,0.5717206001281738,16,75.95
+"Unless you’ve got E.T. in your basket, you probably shouldn’t be cycling on an airport runway.",BRIGHT_GREEN (4),Video C,NEGATIVE,0.9984972476959229,neutral,0.8821654915809631,17,75.67
+crossing an airfield near Sao Paulo while listening to his Walkman.,YELLOW (7),Video C,NEGATIVE,0.948358118534088,fear,0.9166021347045898,18,74.64
+22 year-old night manager Lisa was bound with duct tape and shut into the walk-in cooler by her accomplice,YELLOW (7),Video C,NEGATIVE,0.9989363551139832,anger,0.3987591564655304,23,72.89
+found freezing and semi-conscious,BRIGHT_GREEN (4),Video C,NEGATIVE,0.9991921782493592,sadness,0.604481041431427,24,72.42
+"What he’d forgotten was that he was at Bloemfontein Zoo, and the fences were there for a reason.",YELLOW (7),Video C,NEGATIVE,0.9893295168876648,surprise,0.5353771448135376,28,69.99
+"Bystanders saw her car come to a sudden stop, and all three passengers got out and started pouring leftover jars of chemicals down a manhole.",YELLOW (7),Video C,NEGATIVE,0.9987872242927552,disgust,0.4104207754135132,32,69.08
+"sewers caused an explosion so powerful that the manhole cover was launched into the air , instantly decapitating the polluting teacher",BRIGHT_GREEN (4),Video C,NEGATIVE,0.9943163990974426,anger,0.7408019304275513,34,68.89
+which quickly blew them sky high .,BRIGHT_GREEN (4),Video C,POSITIVE,0.9972512125968932,surprise,0.443026065826416,39,66.0
+"His friends dared him to eat it, and he did.",YELLOW (7),Video C,POSITIVE,0.9977560639381408,anger,0.7756534218788147,42,65.04
+one of the men pulled out a 25-year-old unexploded anti-tank mine he’d found in his backyard.,BRIGHT_GREEN (4),Video C,NEGATIVE,0.9980816841125488,disgust,0.8950226902961731,52,61.92
+"first drink, then stamp on the mine.",TURQUOISE (3),Video C,NEGATIVE,0.8636334538459778,neutral,0.5315518379211426,53,61.84
+entangled in the power lines below.,BRIGHT_GREEN (4),Video C,NEGATIVE,0.5105189085006714,neutral,0.6874009370803833,57,60.96
+"the man leapt from the balcony, aiming for the wires .",TURQUOISE (3),Video C,NEGATIVE,0.9321491718292236,fear,0.6808887124061584,58,60.88
+"to a nearby balcony, and was subsequently rescued.",PINK (5),Video C,POSITIVE,0.9912370443344116,fear,0.8661967515945435,59,60.66
+"andy Nestor stole plenty of cars, and whenever a stolen vehicle became “ hot ” , he’d torch it,",YELLOW (7),Video C,NEGATIVE,0.9887294173240662,anger,0.7723118662834167,66,59.21
+"he set fire to a van that he was still inside. On trying to escape, Randy found that the driver’s side handle was broken, and the door locked . except for four terrorists who’d planned a bombing that day.",BRIGHT_GREEN (4),Video C,NEGATIVE,0.9987327456474304,anger,0.7265402674674988,68,58.46
+The explosives detonated while the terrorists were en route,PINK (5),Video C,NEGATIVE,0.9377330541610718,fear,0.6140488386154175,77,55.53
+climbed through a vent in order to access the area behind a wall in the women’s bathrooms.,YELLOW (7),Video C,NEGATIVE,0.995254635810852,disgust,0.4829872250556946,85,54.08
+there and was found dead three days later.,BRIGHT_GREEN (4),Video C,NEGATIVE,0.9958971738815308,sadness,0.7787542939186096,86,53.88
+decided to scaled the fence in order to access the zoo.,YELLOW (7),Video C,NEGATIVE,0.9770251512527466,anger,0.605320930480957,90,52.81
+"the tiger enclosure, and was set up by a trio of tigers",BRIGHT_GREEN (4),Video C,POSITIVE,0.9703192710876464,surprise,0.6801668405532837,91,52.94
+he made his first dumb move: crash ing into a police car,YELLOW (7),Video E,NEGATIVE,0.9979937076568604,anger,0.7797815799713135,6,80.44
+trapped between multiple pursuing police cars on the Brooklyn Bridge,BRIGHT_GREEN (4),Video E,NEGATIVE,0.9939324259757996,fear,0.8672769665718079,8,79.35
+"jumping over the railing,",PINK (5),Video E,POSITIVE,0.958975315093994,fear,0.6247316002845764,9,79.31
+"The turnip , renowned by his fellow turnip s as a violent brute",TURQUOISE (3),Video E,NEGATIVE,0.9941701889038086,anger,0.8858121037483215,14,77.36
+"he died that day, aged 74",PINK (5),Video E,NEGATIVE,0.9626708626747132,sadness,0.9319049715995787,15,75.76
+"S he seemed to forget that she was wearing an oxygen ventilator, which ignited when she lit her cigarette , setting fire to the plastic upholstery of her wheelchair",BRIGHT_GREEN (4),Video E,NEGATIVE,0.994835376739502,anger,0.6157822608947754,24,71.26
+But f or one woman who was unaware of this fact,PINK (5),Video E,NEGATIVE,0.9940999150276184,anger,0.3585699200630188,31,69.32
+"He lost his balance, plummeted over the edge , and died on impact.",TURQUOISE (3),Video E,NEGATIVE,0.9964463114738464,sadness,0.663349449634552,39,66.29
+boyfriend were found dead on a beach in Portugal.,YELLOW (7),Video E,NEGATIVE,0.989589273929596,sadness,0.8599081039428711,42,65.14
+had been sat atop a 100ft wall overlooking the beach,BRIGHT_GREEN (4),Video E,NEGATIVE,0.5054922103881836,fear,0.4204308688640594,43,65.25
+when they dropped the phone they’d been snapping vacation pic s on,TURQUOISE (3),Video E,NEGATIVE,0.9966307282447816,neutral,0.7157406806945801,44,65.12
+"Unfortunately, they both lost their balance, and plunged the full distance to the ground below",RED (6),Video E,NEGATIVE,0.9990323781967164,sadness,0.7705255746841431,45,64.77
+.,YELLOW (7),Video E,POSITIVE,0.9668781757354736,neutral,0.3826319277286529,1,88.7
+"symbolise technology’s inevitable take over of the human race, the phone the couple gave their lives trying to sav e remained on the wall",BRIGHT_GREEN (4),Video E,NEGATIVE,0.9966728687286376,joy,0.8133534789085388,46,63.92
+". As he relaxed in the tub, he balanced an extension cord on his chest , keeping it out of the water",RED (6),Video E,POSITIVE,0.9884130358695984,neutral,0.7527315020561218,51,63.26
+he was killed by the ensuing shock,BRIGHT_GREEN (4),Video E,NEGATIVE,0.9937133193016052,sadness,0.4246521294116974,53,61.94
+". Despite – or perhaps because of – his brilliance as a mathematician, Gödel was an extremely paranoid man",YELLOW (7),Video E,NEGATIVE,0.9991868138313292,fear,0.7919318675994873,56,63.43
+he refused to eat anything that hadn’t first been tasted or prepared by his wife,BRIGHT_GREEN (4),Video E,NEGATIVE,0.9978567957878112,anger,0.5774972438812256,57,60.61
+"By the end of January 1978, he had died of malnutrition - weighing only 65 pounds when he died.",TURQUOISE (3),Video E,NEGATIVE,0.999254047870636,sadness,0.7024329304695129,60,59.39
+"He was a lover of food, with a sweet tooth, and it could never be said that his eyes were bigger than his belly",YELLOW (7),Video E,POSITIVE,0.9993300437927246,neutral,0.6008738279342651,67,57.31
+"consumed on his last meal in February 1771 did exceed the limitations of his large belly , he finished it nonetheless . After a heaping feast of seafood, sauerkraut and champagne",BRIGHT_GREEN (4),Video E,POSITIVE,0.9934936165809632,joy,0.749816358089447,69,56.96
+as his digestive system completely shut down and he died.,PINK (5),Video E,NEGATIVE,0.9995879530906676,sadness,0.8016568422317505,72,56.09
+"Unfortunately, that first rule of stab club whistled in one ear, through the empty skull cavity, and out the other ear of one Englishman in 2018",YELLOW (7),Video E,NEGATIVE,0.9983166456222534,sadness,0.5716434717178345,77,54.48
+"Mistakenly believing his jacket was stab-proof , the man took a knife and plunged it into his jacket while at the kitchen table",BRIGHT_GREEN (4),Video E,NEGATIVE,0.9971622824668884,fear,0.9155454039573668,78,54.16
+couple of wannabe Texan stuntmen who put their inflated senses of their own abilities to the test in May 2019,YELLOW (7),Video E,NEGATIVE,0.998716115951538,neutral,0.3834795653820038,95,49.54
+"Witnesses reported seeing a car’s passenger lift the barrier of the Black Bayou drawbridge in Louisiana ,",BRIGHT_GREEN (4),Video E,NEGATIVE,0.9639171957969666,fear,0.7406284809112549,96,49.17
+before the car sped off up the rising ramp,TURQUOISE (3),Video E,POSITIVE,0.9674519896507264,fear,0.7454753518104553,97,48.17
+were trapped in their car after it failed to make the jump to the other side.,PINK (5),Video E,NEGATIVE,0.9996448755264282,fear,0.3766608834266662,99,18.16
+They sank and soon drowned,YELLOW (7),Video E,NEGATIVE,0.999504327774048,sadness,0.534977912902832,99,18.16
+"With a $30 bet on the table for whoever could eat 50 the fastest , the men began scoffing hard-boiled eggs .",BRIGHT_GREEN (4),Video F,NEGATIVE,0.998276710510254,neutral,0.406877338886261,7,78.18
+"But while devouring his 42 nd egg, one of the eaters collapsed and fell unconscious",TURQUOISE (3),Video F,NEGATIVE,0.9995693564414978,disgust,0.4461080729961395,8,77.57
+"A man , who had a string of convictions for stealing rare, protected bird eggs, was on the hunt for illicit eggs in a local forest",PINK (5),Video F,NEGATIVE,0.9619849920272828,disgust,0.9188653826713562,11,76.04
+"At the top of the tree, he passed out, plummeting to the ground, breaking his ribs and having his heart punctured by branches on the way down",BRIGHT_GREEN (4),Video F,NEGATIVE,0.998678743839264,sadness,0.4407136142253876,17,73.01
+"Northern France seemed to miss this important qualifying factor in 2017, when he attempted his own Mission Impossible-style escape",TURQUOISE (3),Video F,NEGATIVE,0.9993890523910522,neutral,0.4706368148326874,20,70.53
+", but the makeshift abseiling equipment snapped almost instantly, and he plummeted to the pavement below",PINK (5),Video F,NEGATIVE,0.9991724491119384,surprise,0.4943288266658783,24,69.43
+"While cleaning out a chimney at his home using petrol-fuelled cleaning equipment,",YELLOW (7),Video F,NEGATIVE,0.9967831373214722,disgust,0.7797854542732239,26,68.08
+"Disregarding the common-sense warnings against using naked flames near petrol-fuelled machines, he pulled out his lighter to spark up a cigarette. Unfortunately, in the process of loading up the cleaning equipment, he’d accidentally doused himself in a considerable amount of petrol.",BRIGHT_GREEN (4),Video F,NEGATIVE,0.9986345171928406,disgust,0.7321726679801941,28,67.19
+"The moment he lit his cigarette, his clothes went up in flames, and within minutes, he’d burnt to death",TURQUOISE (3),Video F,NEGATIVE,0.9985563158988952,anger,0.7544469833374023,29,67.31
+including a suggestion that firefighters remove a window to hoist her down,YELLOW (7),Video F,NEGATIVE,0.9955457448959352,anger,0.7741926908493042,36,64.63
+"After doing his business in a Walgreens restroom , staff were appalled to find the stall looking like an explosion at the chocolate factory",BRIGHT_GREEN (4),Video F,NEGATIVE,0.9994827508926392,disgust,0.6334254741668701,41,63.99
+"Staff called him back to the scene of the crime and demanded – very publicly – that he clean up his awful mess . He eventually obliged, but the sheer embarrassment took its toll",TURQUOISE (3),Video F,NEGATIVE,0.9976372718811036,disgust,0.895070493221283,42,63.6
+". It goes to show , if you must leave a mess in a public restroom , have a rapid escape plan prepared",PINK (5),Video F,NEGATIVE,0.999382734298706,neutral,0.9569844603538512,46,62.77
+"I’m no aviation expert, but I’d say if you’re up in the air and fuel begins to slosh around your feet in the cockpit, you probably have a problem",YELLOW (7),Video F,NEGATIVE,0.9992170333862304,neutral,0.6768363118171692,54,57.91
+"one pilot refused to take that specific problem seriously , despite the insistence of airport mechanics after he touched down to refuel on a one-man cross-country flight in 2015",BRIGHT_GREEN (4),Video F,NEGATIVE,0.9975357055664062,anger,0.8745241761207581,56,56.67
+Bucker Jungmeister aircraft was back on the runway . The pilot insisted that he was in too much of a hurry to carry out repairs and headed straight onto the next leg of his journey,TURQUOISE (3),Video F,NEGATIVE,0.9966983199119568,neutral,0.8568203449249268,58,55.89
+"10 seconds after take-off, the plane came crashing back down and exploded in a ball of flam e s",PINK (5),Video F,NEGATIVE,0.9990621209144592,anger,0.446194440126419,60,55.63
+"To test this, he jokingly held the gun up to his temple, presumably certain he’d already unloaded it",TURQUOISE (3),Video F,NEGATIVE,0.9964181184768676,neutral,0.8771519660949707,66,54.4
+"While the guard rails were down at a newly-built crossing, the lady made a serious error of judgement , deciding she could cross the tracks before the train reached her",PINK (5),Video F,NEGATIVE,0.999259889125824,fear,0.8635740280151367,70,53.45
+"And that’s exactly what happened . T he woman and her bike met their end with the train, right on schedule .",RED (6),Video F,NEGATIVE,0.9812411665916444,neutral,0.8599373698234558,72,53.03
+"But, with his attention totally fixed upon his love interest, he failed to spot the low-hangin g lintel of a doorway ahead of him",PINK (5),Video F,NEGATIVE,0.9996851682662964,disgust,0.565712034702301,76,52.16
+"Moving at speed, he crashed head-first into the frame and fell, fatally fracturing his skull",RED (6),Video F,NEGATIVE,0.997596800327301,fear,0.5488202571868896,77,51.87
+"After kicking her boyfriend out of her house in November 2007, a Florida woman hadn’t hoped to see him on the premises again for a while",YELLOW (7),Video F,NEGATIVE,0.897815465927124,sadness,0.5625810027122498,79,51.35
+"combined with the strong currents of the river, made an escape nearly impossible. Without the necessary preparations, Lahiri seemed to have grossly underestimated the difficulty",TURQUOISE (3),Video F,NEGATIVE,0.9976321458816528,fear,0.919103980064392,90,49.4
+the man had asked his cousin to cut his leg off with a chainsaw .,RED (6),Video F,NEGATIVE,0.9964314699172974,anger,0.5656474232673645,95,48.05
+". But, while the DIY amputation was being performed, extreme blood loss set in, and the would-be fraudster died from his gruesome injuries.",PINK (5),Video F,NEGATIVE,0.999424695968628,disgust,0.8500750064849854,97,47.31

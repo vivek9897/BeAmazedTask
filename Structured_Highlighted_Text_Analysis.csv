@@ -1,0 +1,24 @@
+Video position (%),BRIGHT_GREEN (4),PINK (5),TURQUOISE (3),YELLOW (7),Color,Emotion,Sentiment
+1,,,,.,YELLOW (7),neutral,POSITIVE
+9,,"jumping over the railing,",,,PINK (5),fear,POSITIVE
+10,unlucky thief crushed to death.,,,,BRIGHT_GREEN (4),sadness,NEGATIVE
+15,Kim then put the live grenade back in his pocket.,"he died that day, aged 74",,,BRIGHT_GREEN (4),disgust,NEGATIVE
+15,Kim then put the live grenade back in his pocket.,"he died that day, aged 74",,,PINK (5),sadness,NEGATIVE
+17,"Unless you’ve got E.T. in your basket, you probably shouldn’t be cycling on an airport runway.",,,,BRIGHT_GREEN (4),neutral,NEGATIVE
+18,,,,crossing an airfield near Sao Paulo while listening to his Walkman.,YELLOW (7),fear,NEGATIVE
+24,found freezing and semi-conscious,,,,BRIGHT_GREEN (4),sadness,NEGATIVE
+36,,,,including a suggestion that firefighters remove a window to hoist her down,YELLOW (7),anger,NEGATIVE
+42,,"that is, until a truck smashed into them from behind.",,boyfriend were found dead on a beach in Portugal.,PINK (5),fear,NEGATIVE
+42,,"that is, until a truck smashed into them from behind.",,boyfriend were found dead on a beach in Portugal.,YELLOW (7),sadness,NEGATIVE
+43,had been sat atop a 100ft wall overlooking the beach,,,,BRIGHT_GREEN (4),fear,NEGATIVE
+53,he was killed by the ensuing shock,,"first drink, then stamp on the mine.",,BRIGHT_GREEN (4),sadness,NEGATIVE
+53,he was killed by the ensuing shock,,"first drink, then stamp on the mine.",,TURQUOISE (3),neutral,NEGATIVE
+57,entangled in the power lines below.,,,,BRIGHT_GREEN (4),neutral,NEGATIVE
+59,,"to a nearby balcony, and was subsequently rescued.",,,PINK (5),fear,POSITIVE
+72,,as his digestive system completely shut down and he died.,,,PINK (5),sadness,NEGATIVE
+77,,The explosives detonated while the terrorists were en route,,,PINK (5),fear,NEGATIVE
+86,there and was found dead three days later.,,,,BRIGHT_GREEN (4),sadness,NEGATIVE
+90,,,,decided to scaled the fence in order to access the zoo.,YELLOW (7),anger,NEGATIVE
+97,,,before the car sped off up the rising ramp,,TURQUOISE (3),fear,POSITIVE
+99,,were trapped in their car after it failed to make the jump to the other side.,,They sank and soon drowned,PINK (5),fear,NEGATIVE
+99,,were trapped in their car after it failed to make the jump to the other side.,,They sank and soon drowned,YELLOW (7),sadness,NEGATIVE
